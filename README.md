@@ -1,5 +1,5 @@
 # CCL-based-oceanic-eddy-identification
-CCL-based oceanic eddy identification  
+Connected-component Labeling based oceanic eddy identification algorithm
 **Packages**：  
 scikit-image 0.18.2  
 scipy 1.7.3  
