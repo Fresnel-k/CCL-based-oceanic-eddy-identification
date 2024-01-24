@@ -1,6 +1,6 @@
 # CCL-based-oceanic-eddy-identification
 CCL-based oceanic eddy identification  
-Packages：
+**Packages**：  
 scikit-image 0.18.2  
 scipy 1.7.3  
 netCDF4 1.5.7  
